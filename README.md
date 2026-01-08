@@ -4,7 +4,7 @@ A small React application that simulates a real-world authentication flow with a
 
 ## 🚀 Live Demo
 
-- **Live URL**: https://your-vercel-app-url.vercel.app
+- **Live URL**: (https://bayone-frontend-assignment.vercel.app/login)
 - **GitHub Repo**: https://github.com/your-username/auth-dashboard-react
 
 _(Replace the links above with your actual URLs.)_
