@@ -4,8 +4,8 @@ A small React application that simulates a real-world authentication flow with a
 
 ## 🚀 Live Demo
 
-- **Live URL**:  https://bayone-frontend-assignment.vercel.app/login
-- **GitHub Repo**: 
+- **Live URL**: [ https://bayone-frontend-assignment.vercel.app/login](https://bayone-frontend-assignment.vercel.app/login)
+- **GitHub Repo**:  https://github.com/Guri9368/bayone-frontend-assignment
 
 _(Replace the links above with your actual URLs.)_
 
